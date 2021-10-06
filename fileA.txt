@@ -1,2 +1,2 @@
-Functionality A version 3.0 in main branch.
-
+<<<<<<< HEAD
+Functionality A version 3.0 and version 4.0.
